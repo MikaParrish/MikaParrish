@@ -3,7 +3,7 @@
 <h2>👩🏽‍💻 Cybersecurity Projects:</h2>
 
 - <b>Cyber Threats, Attacks and Vulnerabilities </b>
-  - [Enhance Your Understanding & Mitigation Techniques](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Enhance Your Understanding & Mitigation Techniques](https://github.com/MikaParrish/CyberThreatsandMitigationProject)
 
 
 <h2>📺 Popular YouTube Videos</h2>
